@@ -40,7 +40,7 @@ body {
 .header_container {
     max-width: 1440px;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
     gap: 484px;
     padding-top: 26px;
